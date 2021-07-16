@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-smooth-scroll-web/static/css/main.6f9e91f2.chunk.css",
+    "main.js": "/React-smooth-scroll-web/static/js/main.0b22d3f5.chunk.js",
+    "main.js.map": "/React-smooth-scroll-web/static/js/main.0b22d3f5.chunk.js.map",
+    "runtime-main.js": "/React-smooth-scroll-web/static/js/runtime-main.d4e583eb.js",
+    "runtime-main.js.map": "/React-smooth-scroll-web/static/js/runtime-main.d4e583eb.js.map",
+    "static/js/2.99b7f5b7.chunk.js": "/React-smooth-scroll-web/static/js/2.99b7f5b7.chunk.js",
+    "static/js/2.99b7f5b7.chunk.js.map": "/React-smooth-scroll-web/static/js/2.99b7f5b7.chunk.js.map",
+    "index.html": "/React-smooth-scroll-web/index.html",
+    "static/css/main.6f9e91f2.chunk.css.map": "/React-smooth-scroll-web/static/css/main.6f9e91f2.chunk.css.map",
+    "static/js/2.99b7f5b7.chunk.js.LICENSE.txt": "/React-smooth-scroll-web/static/js/2.99b7f5b7.chunk.js.LICENSE.txt",
+    "static/media/service-1.f5d19495.svg": "/React-smooth-scroll-web/static/media/service-1.f5d19495.svg",
+    "static/media/service-2.dfe9c2d6.svg": "/React-smooth-scroll-web/static/media/service-2.dfe9c2d6.svg",
+    "static/media/service-3.215b9b8f.svg": "/React-smooth-scroll-web/static/media/service-3.215b9b8f.svg",
+    "static/media/svg-1.svg": "/React-smooth-scroll-web/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.svg": "/React-smooth-scroll-web/static/media/svg-2.0bd0cf47.svg",
+    "static/media/svg-3.svg": "/React-smooth-scroll-web/static/media/svg-3.29b4bf19.svg",
+    "static/media/video.69a8cedf.mp4": "/React-smooth-scroll-web/static/media/video.69a8cedf.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e583eb.js",
+    "static/js/2.99b7f5b7.chunk.js",
+    "static/css/main.6f9e91f2.chunk.css",
+    "static/js/main.0b22d3f5.chunk.js"
+  ]
+}
